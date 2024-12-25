@@ -10,7 +10,7 @@ function Project() {
           tittle: "Butter Chicken",
         },
         {
-          img: "/img/chickenburger.jpg",
+          img: "/img/chikenburger.jpg",
           tittle: "Chicken Burger",
         },
         {
