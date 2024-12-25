@@ -5,7 +5,6 @@ import { NavLink,Link } from 'react-router-dom'
 function Project() {
     let js = [
 
-
         {
           img: "/img/butter-chiken.jpg",
           tittle: "Butter Chicken",
